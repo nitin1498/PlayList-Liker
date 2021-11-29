@@ -12,6 +12,7 @@ and used puppeteer for automation
 
 <br/>
 <br/>
+
 ### To see the execution of project do check out my linked in post
 
 <br/>
